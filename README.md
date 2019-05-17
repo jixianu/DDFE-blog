@@ -50,6 +50,8 @@
 
 ## Node.js 系列
 
+[你真的了解npm-scripts吗？](https://github.com/DDFE/DDFE-blog/issues/43) by [冯伟尧](https://github.com/tank0317)
+
 [Node.js Readable Stream的实现简析](https://github.com/DDFE/DDFE-blog/issues/27) by [肖磊](https://github.com/CommanderXL)
  
 [Node.js Writable Stream的实现简析](https://github.com/DDFE/DDFE-blog/issues/28) by [肖磊](https://github.com/CommanderXL)
@@ -59,6 +61,10 @@
 [AVA测试框架内部的Promise异步流程控制模型](https://github.com/DDFE/DDFE-blog/issues/29) by [肖磊](https://github.com/CommanderXL)
 
 ## webpack系列
+
+[webpack系列之五module生成2](https://github.com/DDFE/DDFE-blog/issues/45) by [崔静](https://github.com/cuijing1031)
+
+[webpack系列之五module生成1](https://github.com/DDFE/DDFE-blog/issues/44) by [崔静](https://github.com/cuijing1031)
 
 [webpack系列之四loader详解3](https://github.com/DDFE/DDFE-blog/issues/41) by [肖磊](https://github.com/CommanderXL)
 
